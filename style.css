@@ -4,5 +4,8 @@ body{
 }
 marquee{
     font-family:cursive;
-    margin-top: 100;
+    margin-top: 70;
+}
+h2{
+    font-size: 25;
 }
