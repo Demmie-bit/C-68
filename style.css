@@ -15,6 +15,22 @@ center{
     
     }
 img{
-      width:500;
-        height:500;
+      width:300;
+        height:300;
+}
+h5{
+    margin-left: 50px;
+    margin-right: 20px;
+}
+#dorms{
+ background-color:#e3f2fd;    
+}
+#track_feild{
+ background-color:#e3f2fd;    
+}
+#Library{
+ background-color:#e3f2fd;    
+}
+#contact{
+    margin-top: 20px;
 }
