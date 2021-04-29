@@ -1,6 +1,7 @@
 body{
     background-color: #bbdefb;
     text-align: center;
+
 }
 marquee{
     font-family:cursive;
@@ -34,4 +35,10 @@ img{
 #img2{
     width:200;
         height:200;
+}
+section{
+        margin-left: 10px;
+}
+#SchoolName{
+  margin-left:20px;  
 }
